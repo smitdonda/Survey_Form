@@ -1,0 +1,28 @@
+/* form parts */
+form{
+    border-style:2px solid black ;
+}
+
+/* table parts */
+.labels{
+    text-align:left;
+}
+.labels1{
+    text-align:left;
+}
+
+table{
+    table-layout:fixed;
+}
+input[type="radio"]{
+    text-align:center;
+}
+/* textarea */
+tr:nth-child(even){
+    background-color: #f1f1f1;
+}
+textarea {
+    resize: none;
+}
+
+
